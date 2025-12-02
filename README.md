@@ -48,3 +48,20 @@ Whether you’re watching standard discs, backups, or disc copies (VIDEO_TS or V
 🔄 Updates & Support
 
 We regularly update DVD Player+ to improve performance and compatibility. Your feedback helps us deliver a better experience — please leave a review or contact us from within the app.
+
+
+![1](https://github.com/user-attachments/assets/e2f44651-da35-4cfa-a232-c06639aae90a)
+
+![2](https://github.com/user-attachments/assets/9e5abdea-1187-4fd9-94b6-9e1ceccc9077)
+
+![3](https://github.com/user-attachments/assets/c21ede9e-0e47-4992-9851-5d314768ea89)
+
+![4](https://github.com/user-attachments/assets/f3868b74-a6f7-4664-b2b2-d4082e8bca57)
+
+![5](https://github.com/user-attachments/assets/46ed6290-928d-4835-9aba-000642889997)
+
+![6](https://github.com/user-attachments/assets/cef71768-c8b8-4190-9f56-aec3284cd1ee)
+
+![7](https://github.com/user-attachments/assets/05728065-e6db-4fd0-9222-ace8f9b96805)
+
+![8](https://github.com/user-attachments/assets/5fc2a820-069b-417d-8d1c-ed988fc9e776)
