@@ -42,6 +42,9 @@ Whether you’re watching standard discs, backups, or disc copies (VIDEO_TS or V
 • DVD drive or CD Drive, or Blu-Ray Drive
 • DirectX 11+ GPU recommended for hardware acceleration
 
+
+
+
 🔄 Updates & Support
 
 We regularly update DVD Player+ to improve performance and compatibility. Your feedback helps us deliver a better experience — please leave a review or contact us from within the app.
