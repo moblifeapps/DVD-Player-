@@ -3,7 +3,7 @@
 by:
 
 
-<a href="https://mlapplications.com" target="_blank">
+<a href="https://mlapplications.com/index.html" target="_blank">
 <img src="https://mlapplications.com/uploads/logo-big_2.png" alt="Get DVD Player+ for Windows 10" style="width:auto;max-width:100%">
 </a>
 
